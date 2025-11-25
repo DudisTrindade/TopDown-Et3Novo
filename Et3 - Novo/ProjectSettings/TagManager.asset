@@ -8,6 +8,7 @@ TagManager:
   - Inimigo
   - Arma
   - Bala
+  - Mira
   layers:
   - Default
   - TransparentFX
