@@ -37,8 +37,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -0.0006853305, y: -0.00005722}
-  m_SizeDelta: {x: 138.01, y: 16.06}
+  m_AnchoredPosition: {x: -0.00049186, y: -0.000099421}
+  m_SizeDelta: {x: 138.01, y: 11.008}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &8001226899820339468
 CanvasRenderer:
@@ -180,8 +180,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: -0.022799969, y: 0.3074999}
-  m_SizeDelta: {x: 138.0063, y: 16.0592}
+  m_AnchoredPosition: {x: -0.046, y: 0.26}
+  m_SizeDelta: {x: 138.0063, y: 11.0086}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!223 &8312681479073683970
 Canvas:
@@ -313,7 +313,7 @@ CircleCollider2D:
   m_CompositeOperation: 0
   m_CompositeOrder: 0
   m_Offset: {x: 0, y: 0}
-  m_Radius: 5
+  m_Radius: 6.11
 --- !u!1 &8225988230972306361
 GameObject:
   m_ObjectHideFlags: 0
@@ -496,9 +496,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   velocidade: 1
-  vida: 8
+  vida: 15
   energia: 10
-  dano: 1
+  dano: 2
   raioDeVisao: 1
   _visaoCollider2D: {fileID: 8011573097935370854}
   posicaoDoPlayer: {fileID: 0}
