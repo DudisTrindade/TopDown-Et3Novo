@@ -240,10 +240,10 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: fcbd255e0cc125040b02c123a74f6a33, type: 3}
-  m_Resource: {fileID: 8300000, guid: fcbd255e0cc125040b02c123a74f6a33, type: 3}
+  m_audioClip: {fileID: 8300000, guid: 5f1ff8cf94785da4cacf1368b609fcb8, type: 3}
+  m_Resource: {fileID: 8300000, guid: 5f1ff8cf94785da4cacf1368b609fcb8, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 1
+  m_Volume: 0.47
   m_Pitch: 1
   Loop: 1
   Mute: 0
@@ -1247,17 +1247,17 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1348397912}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 89.99439}
-  m_LocalScale: {x: 0.010576127, y: 0.010576127, z: 0.010576127}
+  m_LocalPosition: {x: 0, y: 0, z: 90}
+  m_LocalScale: {x: 0.007922577, y: 0.007922577, z: 0.007922577}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1035413651}
   - {fileID: 202037899}
-  m_Father: {fileID: 1496210334}
+  m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 0.0769, y: -0.5763}
+  m_AnchoredPosition: {x: -3.233, y: 1.6}
   m_SizeDelta: {x: 218.5662, y: 65.0871}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1348397914
@@ -1884,7 +1884,7 @@ MonoBehaviour:
   - {fileID: 661488357}
   - {fileID: 585096971}
   - {fileID: 1924682428}
-  tempoDoNovoInimigo: 2
+  tempoDoNovoInimigo: 8
 --- !u!4 &1928008071
 Transform:
   m_ObjectHideFlags: 0
@@ -2143,9 +2143,6 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 1690160064720225642, guid: bd3c77c3aba752e4eacdfa7781261826, type: 3}
       insertIndex: 0
       addedObject: {fileID: 1462289409}
-    - targetCorrespondingSourceObject: {fileID: 1690160064720225642, guid: bd3c77c3aba752e4eacdfa7781261826, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 1348397913}
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bd3c77c3aba752e4eacdfa7781261826, type: 3}
 --- !u!1001 &1539752615009225894
@@ -2488,10 +2485,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: Inimigo 1
       objectReference: {fileID: 0}
-    - target: {fileID: 8476280663173875553, guid: ed875b0c4025e2a4887d133753290654, type: 3}
-      propertyPath: m_IsActive
-      value: 1
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2514,3 +2507,4 @@ SceneRoots:
   - {fileID: 763127292528672644}
   - {fileID: 3914762704622691863}
   - {fileID: 1928008071}
+  - {fileID: 1348397913}
