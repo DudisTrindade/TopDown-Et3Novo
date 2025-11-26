@@ -245,7 +245,7 @@ GameObject:
   m_Icon: {fileID: -5397416234189338067, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!114 &382092099
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -271,7 +271,7 @@ MonoBehaviour:
   - {fileID: 1657830008}
   - {fileID: 1330888614}
   - {fileID: 1956114324}
-  tempoDoNovoInimigo: 2
+  tempoDoNovoInimigo: 1
 --- !u!4 &382092100
 Transform:
   m_ObjectHideFlags: 0
@@ -520,11 +520,6 @@ Transform:
 GameObject:
   m_CorrespondingSourceObject: {fileID: 6292520322641573550, guid: da1511c91c39a2c43ba429c39ab060d4, type: 3}
   m_PrefabInstance: {fileID: 3319092822304165872}
-  m_PrefabAsset: {fileID: 0}
---- !u!4 &817144126 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 1690160064720225642, guid: bd3c77c3aba752e4eacdfa7781261826, type: 3}
-  m_PrefabInstance: {fileID: 763127292528672644}
   m_PrefabAsset: {fileID: 0}
 --- !u!1 &962996304
 GameObject:
@@ -1179,15 +1174,15 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 1614038711}
+    m_TransformParent: {fileID: 0}
     m_Modifications:
     - target: {fileID: 1690160064720225642, guid: bd3c77c3aba752e4eacdfa7781261826, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -4.6800003
+      value: -3.1600003
       objectReference: {fileID: 0}
     - target: {fileID: 1690160064720225642, guid: bd3c77c3aba752e4eacdfa7781261826, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 1.7169999
+      value: 2.097
       objectReference: {fileID: 0}
     - target: {fileID: 1690160064720225642, guid: bd3c77c3aba752e4eacdfa7781261826, type: 3}
       propertyPath: m_LocalPosition.z
@@ -1225,9 +1220,25 @@ PrefabInstance:
       propertyPath: personagem
       value: 
       objectReference: {fileID: 1658397718}
+    - target: {fileID: 2419913925280150850, guid: bd3c77c3aba752e4eacdfa7781261826, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 2537405226691963359, guid: bd3c77c3aba752e4eacdfa7781261826, type: 3}
       propertyPath: m_Name
       value: "Cora\xE7\xE3o"
+      objectReference: {fileID: 0}
+    - target: {fileID: 2537405226691963359, guid: bd3c77c3aba752e4eacdfa7781261826, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3664628447111965452, guid: bd3c77c3aba752e4eacdfa7781261826, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4078687509633568325, guid: bd3c77c3aba752e4eacdfa7781261826, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7405784765696838622, guid: bd3c77c3aba752e4eacdfa7781261826, type: 3}
       propertyPath: m_Camera
@@ -1300,10 +1311,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
-    m_AddedGameObjects:
-    - targetCorrespondingSourceObject: {fileID: 2315992653115971602, guid: e8d52d5551d5504488abe34c0331bee3, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 817144126}
+    m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e8d52d5551d5504488abe34c0331bee3, type: 3}
 --- !u!1001 &2713240565262898065
@@ -1320,15 +1328,19 @@ PrefabInstance:
       objectReference: {fileID: 1614038711}
     - target: {fileID: 4277913371940371716, guid: f3c0d081e2f0ce94081228b9b139f14f, type: 3}
       propertyPath: m_AnchorMax.x
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4277913371940371716, guid: f3c0d081e2f0ce94081228b9b139f14f, type: 3}
       propertyPath: m_AnchorMax.y
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6579992117743388442, guid: f3c0d081e2f0ce94081228b9b139f14f, type: 3}
       propertyPath: m_Name
       value: Inimigo 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 6579992117743388442, guid: f3c0d081e2f0ce94081228b9b139f14f, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6750205768381569657, guid: f3c0d081e2f0ce94081228b9b139f14f, type: 3}
       propertyPath: m_Camera
@@ -1389,11 +1401,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 3989456544342936752, guid: da1511c91c39a2c43ba429c39ab060d4, type: 3}
       propertyPath: m_AnchorMax.x
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 3989456544342936752, guid: da1511c91c39a2c43ba429c39ab060d4, type: 3}
       propertyPath: m_AnchorMax.y
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4185722962841552557, guid: da1511c91c39a2c43ba429c39ab060d4, type: 3}
       propertyPath: posicaoDoPlayer
@@ -1406,6 +1418,10 @@ PrefabInstance:
     - target: {fileID: 6292520322641573550, guid: da1511c91c39a2c43ba429c39ab060d4, type: 3}
       propertyPath: m_Name
       value: Inimigo 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6292520322641573550, guid: da1511c91c39a2c43ba429c39ab060d4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8427968036276107999, guid: da1511c91c39a2c43ba429c39ab060d4, type: 3}
       propertyPath: m_LocalPosition.x
@@ -1523,11 +1539,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1562516152346541439, guid: ed875b0c4025e2a4887d133753290654, type: 3}
       propertyPath: m_AnchorMax.x
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 1562516152346541439, guid: ed875b0c4025e2a4887d133753290654, type: 3}
       propertyPath: m_AnchorMax.y
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 1793810777520093026, guid: ed875b0c4025e2a4887d133753290654, type: 3}
       propertyPath: posicaoDoPlayer
@@ -1581,6 +1597,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Inimigo 1
       objectReference: {fileID: 0}
+    - target: {fileID: 8476280663173875553, guid: ed875b0c4025e2a4887d133753290654, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1600,5 +1620,6 @@ SceneRoots:
   - {fileID: 3319092822304165872}
   - {fileID: 2713240565262898065}
   - {fileID: 1539752615009225894}
+  - {fileID: 763127292528672644}
   - {fileID: 3914762704622691863}
   - {fileID: 382092100}

@@ -214,7 +214,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1ce5f75552513c247a51e2679b1cbe2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  velocidade: 1
+  velocidade: 2
   vida: 40
   energia: 10
   arma: {fileID: 3751602556042794510}
