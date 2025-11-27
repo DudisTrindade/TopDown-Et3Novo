@@ -2404,6 +2404,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4876146572719443284, guid: 11c5f71dbbba39f4dbba17d5420e2398, type: 3}
+      propertyPath: m_Resource
+      value: 
+      objectReference: {fileID: 8300000, guid: abdcd33d5e8eacf40aa2b28d3f11efc1, type: 3}
+    - target: {fileID: 4876146572719443284, guid: 11c5f71dbbba39f4dbba17d5420e2398, type: 3}
+      propertyPath: m_audioClip
+      value: 
+      objectReference: {fileID: 8300000, guid: abdcd33d5e8eacf40aa2b28d3f11efc1, type: 3}
     - target: {fileID: 6761734117656592588, guid: 11c5f71dbbba39f4dbba17d5420e2398, type: 3}
       propertyPath: m_Name
       value: Bala
