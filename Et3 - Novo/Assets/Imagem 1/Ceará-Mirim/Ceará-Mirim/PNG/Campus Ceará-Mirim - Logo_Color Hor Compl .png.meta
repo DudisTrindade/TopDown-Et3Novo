@@ -1,0 +1,1718 @@
+fileFormatVersion: 2
+guid: 86ad1a8da6806a84083fb7a74ffb1160
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7626355100078246502
+    second: "Campus Cear\xE1-Mirim - Logo_Color Hor Compl _0"
+  - first:
+      213: -1767784572350413981
+    second: "Campus Cear\xE1-Mirim - Logo_Color Hor Compl _1"
+  - first:
+      213: -3951739138730178093
+    second: "Campus Cear\xE1-Mirim - Logo_Color Hor Compl _2"
+  - first:
+      213: 9101924578437361285
+    second: "Campus Cear\xE1-Mirim - Logo_Color Hor Compl _3"
+  - first:
+      213: 3899599747174429443
+    second: "Campus Cear\xE1-Mirim - Logo_Color Hor Compl _4"
+  - first:
+      213: -8066981480143289465
+    second: "Campus Cear\xE1-Mirim - Logo_Color Hor Compl _5"
+  - first:
+      213: 6388363690088210858
+    second: "Campus Cear\xE1-Mirim - Logo_Color Hor Compl _6"
+  - first:
+      213: 2465627800774728764
+    second: "Campus Cear\xE1-Mirim - Logo_Color Hor Compl _7"
+  - first:
+      213: 5705510308648390885
+    second: "Campus Cear\xE1-Mirim - Logo_Color Hor Compl _8"
+  - first:
+      213: 6807288311431127179
+    second: "Campus Cear\xE1-Mirim - Logo_Color Hor Compl _9"
+  - first:
+      213: 4636137126651466452
+    second: "Campus Cear\xE1-Mirim - Logo_Color Hor Compl _10"
+  - first:
+      213: -4520245797042603851
+    second: "Campus Cear\xE1-Mirim - Logo_Color Hor Compl _11"
+  - first:
+      213: 1444168920783327425
+    second: "Campus Cear\xE1-Mirim - Logo_Color Hor Compl _12"
+  - first:
+      213: 1340421746993214343
+    second: "Campus Cear\xE1-Mirim - Logo_Color Hor Compl _13"
+  - first:
+      213: 676093036543017226
+    second: "Campus Cear\xE1-Mirim - Logo_Color Hor Compl _14"
+  - first:
+      213: 4854091997096621252
+    second: "Campus Cear\xE1-Mirim - Logo_Color Hor Compl _15"
+  - first:
+      213: -1497541506257163543
+    second: "Campus Cear\xE1-Mirim - Logo_Color Hor Compl _16"
+  - first:
+      213: 801824700950549931
+    second: "Campus Cear\xE1-Mirim - Logo_Color Hor Compl _17"
+  - first:
+      213: 3501892659376272083
+    second: "Campus Cear\xE1-Mirim - Logo_Color Hor Compl _18"
+  - first:
+      213: -7580916889104672400
+    second: "Campus Cear\xE1-Mirim - Logo_Color Hor Compl _19"
+  - first:
+      213: -3369547859526407603
+    second: "Campus Cear\xE1-Mirim - Logo_Color Hor Compl _20"
+  - first:
+      213: -8047264962776595761
+    second: "Campus Cear\xE1-Mirim - Logo_Color Hor Compl _21"
+  - first:
+      213: 6074404218709534161
+    second: "Campus Cear\xE1-Mirim - Logo_Color Hor Compl _22"
+  - first:
+      213: 3415061648442880824
+    second: "Campus Cear\xE1-Mirim - Logo_Color Hor Compl _23"
+  - first:
+      213: -7505024837844244525
+    second: "Campus Cear\xE1-Mirim - Logo_Color Hor Compl _24"
+  - first:
+      213: 1675556796445240550
+    second: "Campus Cear\xE1-Mirim - Logo_Color Hor Compl _25"
+  - first:
+      213: -8985785680547688776
+    second: "Campus Cear\xE1-Mirim - Logo_Color Hor Compl _26"
+  - first:
+      213: -3146036636873076143
+    second: "Campus Cear\xE1-Mirim - Logo_Color Hor Compl _27"
+  - first:
+      213: 7110030252923013132
+    second: "Campus Cear\xE1-Mirim - Logo_Color Hor Compl _28"
+  - first:
+      213: 3847623412021056495
+    second: "Campus Cear\xE1-Mirim - Logo_Color Hor Compl _29"
+  - first:
+      213: -7178713747364733467
+    second: "Campus Cear\xE1-Mirim - Logo_Color Hor Compl _30"
+  - first:
+      213: 553320540909879929
+    second: "Campus Cear\xE1-Mirim - Logo_Color Hor Compl _31"
+  - first:
+      213: 2356371130009102820
+    second: "Campus Cear\xE1-Mirim - Logo_Color Hor Compl _32"
+  - first:
+      213: -6779613070142534599
+    second: "Campus Cear\xE1-Mirim - Logo_Color Hor Compl _33"
+  - first:
+      213: -1781415268346717765
+    second: "Campus Cear\xE1-Mirim - Logo_Color Hor Compl _34"
+  - first:
+      213: -3820321906319535625
+    second: "Campus Cear\xE1-Mirim - Logo_Color Hor Compl _35"
+  - first:
+      213: 1333203241603180607
+    second: "Campus Cear\xE1-Mirim - Logo_Color Hor Compl _36"
+  - first:
+      213: 3316678368899761377
+    second: "Campus Cear\xE1-Mirim - Logo_Color Hor Compl _37"
+  - first:
+      213: 526855495333722136
+    second: "Campus Cear\xE1-Mirim - Logo_Color Hor Compl _38"
+  - first:
+      213: 493381571182240286
+    second: "Campus Cear\xE1-Mirim - Logo_Color Hor Compl _39"
+  - first:
+      213: -6413253161519296618
+    second: "Campus Cear\xE1-Mirim - Logo_Color Hor Compl _40"
+  - first:
+      213: -5550515674726292428
+    second: "Campus Cear\xE1-Mirim - Logo_Color Hor Compl _41"
+  - first:
+      213: -8508806673152367948
+    second: "Campus Cear\xE1-Mirim - Logo_Color Hor Compl _42"
+  - first:
+      213: 6096468488753906043
+    second: "Campus Cear\xE1-Mirim - Logo_Color Hor Compl _43"
+  - first:
+      213: 2386524581130942005
+    second: "Campus Cear\xE1-Mirim - Logo_Color Hor Compl _44"
+  - first:
+      213: 7365440695888194685
+    second: "Campus Cear\xE1-Mirim - Logo_Color Hor Compl _45"
+  - first:
+      213: 4348639027294909491
+    second: "Campus Cear\xE1-Mirim - Logo_Color Hor Compl _46"
+  - first:
+      213: -9009143706655256791
+    second: "Campus Cear\xE1-Mirim - Logo_Color Hor Compl _47"
+  - first:
+      213: -6894512170430603488
+    second: "Campus Cear\xE1-Mirim - Logo_Color Hor Compl _48"
+  - first:
+      213: 5309495077804732661
+    second: "Campus Cear\xE1-Mirim - Logo_Color Hor Compl _49"
+  - first:
+      213: 4903082210353132669
+    second: "Campus Cear\xE1-Mirim - Logo_Color Hor Compl _50"
+  - first:
+      213: -940508385151654102
+    second: "Campus Cear\xE1-Mirim - Logo_Color Hor Compl _51"
+  - first:
+      213: 5016771213352472980
+    second: "Campus Cear\xE1-Mirim - Logo_Color Hor Compl _52"
+  - first:
+      213: -148637195788587918
+    second: "Campus Cear\xE1-Mirim - Logo_Color Hor Compl _53"
+  - first:
+      213: 3112776289402520887
+    second: "Campus Cear\xE1-Mirim - Logo_Color Hor Compl _54"
+  - first:
+      213: 8836957096653118933
+    second: "Campus Cear\xE1-Mirim - Logo_Color Hor Compl _55"
+  - first:
+      213: -5861769301851310411
+    second: "Campus Cear\xE1-Mirim - Logo_Color Hor Compl _56"
+  - first:
+      213: 8222021251353243773
+    second: "Campus Cear\xE1-Mirim - Logo_Color Hor Compl _57"
+  - first:
+      213: 7161527124676260165
+    second: "Campus Cear\xE1-Mirim - Logo_Color Hor Compl _58"
+  - first:
+      213: -4797586530819038821
+    second: "Campus Cear\xE1-Mirim - Logo_Color Hor Compl _59"
+  - first:
+      213: 1537001413055150741
+    second: "Campus Cear\xE1-Mirim - Logo_Color Hor Compl _60"
+  - first:
+      213: -7989076171057054504
+    second: "Campus Cear\xE1-Mirim - Logo_Color Hor Compl _61"
+  - first:
+      213: -7313848834380597241
+    second: "Campus Cear\xE1-Mirim - Logo_Color Hor Compl _62"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Color Hor Compl _0"
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 188
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a95f8d0517eb92690800000000000000
+      internalID: -7626355100078246502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Color Hor Compl _1"
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 190
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36343ad2c419777e0800000000000000
+      internalID: -1767784572350413981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Color Hor Compl _2"
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 190
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d9caf6c03a9829c0800000000000000
+      internalID: -3951739138730178093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Color Hor Compl _3"
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 130
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58ee7261e28805e70800000000000000
+      internalID: 9101924578437361285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Color Hor Compl _4"
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 130
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 303f8802f492e1630800000000000000
+      internalID: 3899599747174429443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Color Hor Compl _5"
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 70
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7838762a5135c0090800000000000000
+      internalID: -8066981480143289465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Color Hor Compl _6"
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 70
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa126bbdde608a850800000000000000
+      internalID: 6388363690088210858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Color Hor Compl _7"
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 70
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3c518ddb6ba73220800000000000000
+      internalID: 2465627800774728764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Color Hor Compl _8"
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 70
+        width: 14
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e01159856b0e2f40800000000000000
+      internalID: 5705510308648390885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Color Hor Compl _9"
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 70
+        width: 48
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b80658617a8587e50800000000000000
+      internalID: 6807288311431127179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Color Hor Compl _10"
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 69
+        width: 36
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d29f04472ed65040800000000000000
+      internalID: 4636137126651466452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Color Hor Compl _11"
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 70
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b8b2d9956cd441c0800000000000000
+      internalID: -4520245797042603851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Color Hor Compl _12"
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 70
+        width: 13
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c013fe5bf7ba0410800000000000000
+      internalID: 1444168920783327425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Color Hor Compl _13"
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 70
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7833dbe1a722a9210800000000000000
+      internalID: 1340421746993214343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Color Hor Compl _14"
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 69
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a01034ed807f16900800000000000000
+      internalID: 676093036543017226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Color Hor Compl _15"
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 70
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c4b20a04f23d5340800000000000000
+      internalID: 4854091997096621252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Color Hor Compl _16"
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 69
+        width: 50
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ea63233fe9a73be0800000000000000
+      internalID: -1497541506257163543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Color Hor Compl _17"
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 70
+        width: 31
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba59a483157a02b00800000000000000
+      internalID: 801824700950549931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Color Hor Compl _18"
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 70
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d2bba3e1d8399030800000000000000
+      internalID: 3501892659376272083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Color Hor Compl _19"
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 70
+        width: 45
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0791829314c2bc690800000000000000
+      internalID: -7580916889104672400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Color Hor Compl _20"
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 70
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4a204b0316fc31d0800000000000000
+      internalID: -3369547859526407603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Color Hor Compl _21"
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 70
+        width: 91
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc20140172f525090800000000000000
+      internalID: -8047264962776595761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Color Hor Compl _22"
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 70
+        width: 34
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d5e05e047e9c4450800000000000000
+      internalID: 6074404218709534161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Color Hor Compl _23"
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 10
+        width: 6
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8337f79b97cb46f20800000000000000
+      internalID: 3415061648442880824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Color Hor Compl _24"
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 69
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d76fcd5cabc8d790800000000000000
+      internalID: -7505024837844244525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Color Hor Compl _25"
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 69
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ec2c156706c04710800000000000000
+      internalID: 1675556796445240550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Color Hor Compl _26"
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 70
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bec92348831c4380800000000000000
+      internalID: -8985785680547688776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Color Hor Compl _27"
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 57
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 152d0d0e8580754d0800000000000000
+      internalID: -3146036636873076143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Color Hor Compl _28"
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 69
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c08c1cf28d6eba260800000000000000
+      internalID: 7110030252923013132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Color Hor Compl _29"
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 69
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe3ddfe8b11856530800000000000000
+      internalID: 3847623412021056495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Color Hor Compl _30"
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 10
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ed9c1891e5106c90800000000000000
+      internalID: -7178713747364733467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Color Hor Compl _31"
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 10
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9724cdfa91acda700800000000000000
+      internalID: 553320540909879929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Color Hor Compl _32"
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 10
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e9ad23ee0383b020800000000000000
+      internalID: 2356371130009102820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Color Hor Compl _33"
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 43
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93c0f8725d9f9e1a0800000000000000
+      internalID: -6779613070142534599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Color Hor Compl _34"
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 10
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb99cb470442747e0800000000000000
+      internalID: -1781415268346717765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Color Hor Compl _35"
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 10
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f15e26977d7bfac0800000000000000
+      internalID: -3820321906319535625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Color Hor Compl _36"
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 10
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f38282dd84d708210800000000000000
+      internalID: 1333203241603180607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Color Hor Compl _37"
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 10
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e40e7c6765370e20800000000000000
+      internalID: 3316678368899761377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Color Hor Compl _38"
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 10
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81834571844cf4700800000000000000
+      internalID: 526855495333722136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Color Hor Compl _39"
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 9
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e12aa09cce7d8d600800000000000000
+      internalID: 493381571182240286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Color Hor Compl _40"
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 42
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69fcdfc7a3c8ff6a0800000000000000
+      internalID: -6413253161519296618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Color Hor Compl _41"
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 10
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 434a3b7d66b98f2b0800000000000000
+      internalID: -5550515674726292428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Color Hor Compl _42"
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 43
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b2a7409965aae980800000000000000
+      internalID: -8508806673152367948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Color Hor Compl _43"
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 43
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b710a804ac10b9450800000000000000
+      internalID: 6096468488753906043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Color Hor Compl _44"
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 10
+        width: 7
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5363c025673ae1120800000000000000
+      internalID: 2386524581130942005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Color Hor Compl _45"
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 10
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7c2f940a4d473660800000000000000
+      internalID: 7365440695888194685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Color Hor Compl _46"
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 10
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 334305eb728795c30800000000000000
+      internalID: 4348639027294909491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Color Hor Compl _47"
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 10
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92f0e52088719f280800000000000000
+      internalID: -9009143706655256791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Color Hor Compl _48"
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 10
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02f50eda5b5c150a0800000000000000
+      internalID: -6894512170430603488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Color Hor Compl _49"
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 10
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f07c3174ad1fa940800000000000000
+      internalID: 5309495077804732661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Color Hor Compl _50"
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 10
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d74b2acea4f3b0440800000000000000
+      internalID: 4903082210353132669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Color Hor Compl _51"
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 10
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2762c25b94a2f2f0800000000000000
+      internalID: -940508385151654102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Color Hor Compl _52"
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 10
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 491974ba6d62f9540800000000000000
+      internalID: 5016771213352472980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Color Hor Compl _53"
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 10
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27c6c98024fefedf0800000000000000
+      internalID: -148637195788587918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Color Hor Compl _54"
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 9
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73588130b8dc23b20800000000000000
+      internalID: 3112776289402520887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Color Hor Compl _55"
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 9
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dd5061c8ad23aa70800000000000000
+      internalID: 8836957096653118933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Color Hor Compl _56"
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 10
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b6fcdf70efc6aea0800000000000000
+      internalID: -5861769301851310411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Color Hor Compl _57"
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 9
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d707f9614cc7a1270800000000000000
+      internalID: 8222021251353243773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Color Hor Compl _58"
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 22
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54137abf9fad26360800000000000000
+      internalID: 7161527124676260165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Color Hor Compl _59"
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 10
+        width: 7
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b91255b087c8b6db0800000000000000
+      internalID: -4797586530819038821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Color Hor Compl _60"
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 10
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59afc6c44a6845510800000000000000
+      internalID: 1537001413055150741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Color Hor Compl _61"
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 10
+        width: 7
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dc3b94ec89112190800000000000000
+      internalID: -7989076171057054504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Color Hor Compl _62"
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 10
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 708f6dd4c3dff7a90800000000000000
+      internalID: -7313848834380597241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

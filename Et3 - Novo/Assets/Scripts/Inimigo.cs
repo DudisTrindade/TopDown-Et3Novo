@@ -104,4 +104,5 @@ public class Inimigo : Personagem
         //desativa quando bate no player
          gameObject.SetActive(false);
     }
+
 }

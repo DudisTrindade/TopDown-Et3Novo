@@ -1,0 +1,1718 @@
+fileFormatVersion: 2
+guid: 4154cdbdcd21d674288e401cf0cbce23
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7541836633994229665
+    second: "Campus Cear\xE1-Mirim - Logo_Cinza Hor Compl_0"
+  - first:
+      213: -6500973006422370638
+    second: "Campus Cear\xE1-Mirim - Logo_Cinza Hor Compl_1"
+  - first:
+      213: -1795111540883217736
+    second: "Campus Cear\xE1-Mirim - Logo_Cinza Hor Compl_2"
+  - first:
+      213: -8668340480424960005
+    second: "Campus Cear\xE1-Mirim - Logo_Cinza Hor Compl_3"
+  - first:
+      213: 4850184268035637756
+    second: "Campus Cear\xE1-Mirim - Logo_Cinza Hor Compl_4"
+  - first:
+      213: 4408673049150949365
+    second: "Campus Cear\xE1-Mirim - Logo_Cinza Hor Compl_5"
+  - first:
+      213: -1455370281356737341
+    second: "Campus Cear\xE1-Mirim - Logo_Cinza Hor Compl_6"
+  - first:
+      213: 1338990290861533656
+    second: "Campus Cear\xE1-Mirim - Logo_Cinza Hor Compl_7"
+  - first:
+      213: -3608150412523663593
+    second: "Campus Cear\xE1-Mirim - Logo_Cinza Hor Compl_8"
+  - first:
+      213: -7930149259737654336
+    second: "Campus Cear\xE1-Mirim - Logo_Cinza Hor Compl_9"
+  - first:
+      213: 5873633513624169031
+    second: "Campus Cear\xE1-Mirim - Logo_Cinza Hor Compl_10"
+  - first:
+      213: 1009701494978803700
+    second: "Campus Cear\xE1-Mirim - Logo_Cinza Hor Compl_11"
+  - first:
+      213: -7240466975621616579
+    second: "Campus Cear\xE1-Mirim - Logo_Cinza Hor Compl_12"
+  - first:
+      213: -7008801393834685511
+    second: "Campus Cear\xE1-Mirim - Logo_Cinza Hor Compl_13"
+  - first:
+      213: -907450321753577690
+    second: "Campus Cear\xE1-Mirim - Logo_Cinza Hor Compl_14"
+  - first:
+      213: 7909475635568364126
+    second: "Campus Cear\xE1-Mirim - Logo_Cinza Hor Compl_15"
+  - first:
+      213: 4109145148158234225
+    second: "Campus Cear\xE1-Mirim - Logo_Cinza Hor Compl_16"
+  - first:
+      213: -8007306560957101979
+    second: "Campus Cear\xE1-Mirim - Logo_Cinza Hor Compl_17"
+  - first:
+      213: -26536909030620065
+    second: "Campus Cear\xE1-Mirim - Logo_Cinza Hor Compl_18"
+  - first:
+      213: 4674197546863126419
+    second: "Campus Cear\xE1-Mirim - Logo_Cinza Hor Compl_19"
+  - first:
+      213: -4513656850299923311
+    second: "Campus Cear\xE1-Mirim - Logo_Cinza Hor Compl_20"
+  - first:
+      213: -4257833256708633193
+    second: "Campus Cear\xE1-Mirim - Logo_Cinza Hor Compl_21"
+  - first:
+      213: 16762113707589854
+    second: "Campus Cear\xE1-Mirim - Logo_Cinza Hor Compl_22"
+  - first:
+      213: -2148056629329594049
+    second: "Campus Cear\xE1-Mirim - Logo_Cinza Hor Compl_23"
+  - first:
+      213: -605028355676760917
+    second: "Campus Cear\xE1-Mirim - Logo_Cinza Hor Compl_24"
+  - first:
+      213: 823643147080721059
+    second: "Campus Cear\xE1-Mirim - Logo_Cinza Hor Compl_25"
+  - first:
+      213: -743721521265467178
+    second: "Campus Cear\xE1-Mirim - Logo_Cinza Hor Compl_26"
+  - first:
+      213: -1363839929366937389
+    second: "Campus Cear\xE1-Mirim - Logo_Cinza Hor Compl_27"
+  - first:
+      213: -5482316728339939315
+    second: "Campus Cear\xE1-Mirim - Logo_Cinza Hor Compl_28"
+  - first:
+      213: 7150010619293094879
+    second: "Campus Cear\xE1-Mirim - Logo_Cinza Hor Compl_29"
+  - first:
+      213: 6964442032916040096
+    second: "Campus Cear\xE1-Mirim - Logo_Cinza Hor Compl_30"
+  - first:
+      213: 8401765246734847626
+    second: "Campus Cear\xE1-Mirim - Logo_Cinza Hor Compl_31"
+  - first:
+      213: -3525756530190814137
+    second: "Campus Cear\xE1-Mirim - Logo_Cinza Hor Compl_32"
+  - first:
+      213: -7839163238686753193
+    second: "Campus Cear\xE1-Mirim - Logo_Cinza Hor Compl_33"
+  - first:
+      213: -2164117197863124143
+    second: "Campus Cear\xE1-Mirim - Logo_Cinza Hor Compl_34"
+  - first:
+      213: -1371500670043588194
+    second: "Campus Cear\xE1-Mirim - Logo_Cinza Hor Compl_35"
+  - first:
+      213: 8120674614695348751
+    second: "Campus Cear\xE1-Mirim - Logo_Cinza Hor Compl_36"
+  - first:
+      213: 358084213572020238
+    second: "Campus Cear\xE1-Mirim - Logo_Cinza Hor Compl_37"
+  - first:
+      213: -6754997182307759773
+    second: "Campus Cear\xE1-Mirim - Logo_Cinza Hor Compl_38"
+  - first:
+      213: -4353237513900039696
+    second: "Campus Cear\xE1-Mirim - Logo_Cinza Hor Compl_39"
+  - first:
+      213: 1020712411469612937
+    second: "Campus Cear\xE1-Mirim - Logo_Cinza Hor Compl_40"
+  - first:
+      213: -558053930811109839
+    second: "Campus Cear\xE1-Mirim - Logo_Cinza Hor Compl_41"
+  - first:
+      213: -8128902611881437450
+    second: "Campus Cear\xE1-Mirim - Logo_Cinza Hor Compl_42"
+  - first:
+      213: -4394524898480008220
+    second: "Campus Cear\xE1-Mirim - Logo_Cinza Hor Compl_43"
+  - first:
+      213: 6287663229113403980
+    second: "Campus Cear\xE1-Mirim - Logo_Cinza Hor Compl_44"
+  - first:
+      213: -3158287484160315605
+    second: "Campus Cear\xE1-Mirim - Logo_Cinza Hor Compl_45"
+  - first:
+      213: -5309564484443076954
+    second: "Campus Cear\xE1-Mirim - Logo_Cinza Hor Compl_46"
+  - first:
+      213: 785391254296536646
+    second: "Campus Cear\xE1-Mirim - Logo_Cinza Hor Compl_47"
+  - first:
+      213: -675549798253729903
+    second: "Campus Cear\xE1-Mirim - Logo_Cinza Hor Compl_48"
+  - first:
+      213: -6712651900311367329
+    second: "Campus Cear\xE1-Mirim - Logo_Cinza Hor Compl_49"
+  - first:
+      213: -3788008579975617777
+    second: "Campus Cear\xE1-Mirim - Logo_Cinza Hor Compl_50"
+  - first:
+      213: 2967830047178643610
+    second: "Campus Cear\xE1-Mirim - Logo_Cinza Hor Compl_51"
+  - first:
+      213: 7445712839202358422
+    second: "Campus Cear\xE1-Mirim - Logo_Cinza Hor Compl_52"
+  - first:
+      213: -6639996183962247207
+    second: "Campus Cear\xE1-Mirim - Logo_Cinza Hor Compl_53"
+  - first:
+      213: -2362188299295826133
+    second: "Campus Cear\xE1-Mirim - Logo_Cinza Hor Compl_54"
+  - first:
+      213: -110136044177474011
+    second: "Campus Cear\xE1-Mirim - Logo_Cinza Hor Compl_55"
+  - first:
+      213: -3652082834666853049
+    second: "Campus Cear\xE1-Mirim - Logo_Cinza Hor Compl_56"
+  - first:
+      213: 7909985836936467596
+    second: "Campus Cear\xE1-Mirim - Logo_Cinza Hor Compl_57"
+  - first:
+      213: -6609544975808296725
+    second: "Campus Cear\xE1-Mirim - Logo_Cinza Hor Compl_58"
+  - first:
+      213: -5030355815204982190
+    second: "Campus Cear\xE1-Mirim - Logo_Cinza Hor Compl_59"
+  - first:
+      213: -7675573183292950234
+    second: "Campus Cear\xE1-Mirim - Logo_Cinza Hor Compl_60"
+  - first:
+      213: -9111149018827818222
+    second: "Campus Cear\xE1-Mirim - Logo_Cinza Hor Compl_61"
+  - first:
+      213: -1348176240735827177
+    second: "Campus Cear\xE1-Mirim - Logo_Cinza Hor Compl_62"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Cinza Hor Compl_0"
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 188
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a7f043d57cf9a860800000000000000
+      internalID: 7541836633994229665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Cinza Hor Compl_1"
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 190
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b69ac98e77e7c5a0800000000000000
+      internalID: -6500973006422370638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Cinza Hor Compl_2"
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 190
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b2a371809b7617e0800000000000000
+      internalID: -1795111540883217736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Cinza Hor Compl_3"
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 130
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bff9128824ed3b780800000000000000
+      internalID: -8668340480424960005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Cinza Hor Compl_4"
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 130
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf1c377f4e05f4340800000000000000
+      internalID: 4850184268035637756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Cinza Hor Compl_5"
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 70
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f70b71b7c0ce2d30800000000000000
+      internalID: 4408673049150949365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Cinza Hor Compl_6"
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 70
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c44213a07c7dcbe0800000000000000
+      internalID: -1455370281356737341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Cinza Hor Compl_7"
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 70
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d9af74439c059210800000000000000
+      internalID: 1338990290861533656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Cinza Hor Compl_8"
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 70
+        width: 14
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71f095d01564dedc0800000000000000
+      internalID: -3608150412523663593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Cinza Hor Compl_9"
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 70
+        width: 48
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cb9285934372f190800000000000000
+      internalID: -7930149259737654336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Cinza Hor Compl_10"
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 69
+        width: 36
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74ae5609f86538150800000000000000
+      internalID: 5873633513624169031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Cinza Hor Compl_11"
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 70
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f77469f82e230e00800000000000000
+      internalID: 1009701494978803700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Cinza Hor Compl_12"
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 70
+        width: 13
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3c6026b5a1b48b90800000000000000
+      internalID: -7240466975621616579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Cinza Hor Compl_13"
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 70
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bb883b344cbbbe90800000000000000
+      internalID: -7008801393834685511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Cinza Hor Compl_14"
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 69
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62760908db61863f0800000000000000
+      internalID: -907450321753577690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Cinza Hor Compl_15"
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 70
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5ac8a13f2a14cd60800000000000000
+      internalID: 7909475635568364126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Cinza Hor Compl_16"
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 69
+        width: 50
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17ecd76bdbd960930800000000000000
+      internalID: 4109145148158234225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Cinza Hor Compl_17"
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 70
+        width: 31
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5684f7a7b1550e090800000000000000
+      internalID: -8007306560957101979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Cinza Hor Compl_18"
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 70
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f540bc362d8b1aff0800000000000000
+      internalID: -26536909030620065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Cinza Hor Compl_19"
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 70
+        width: 45
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39767c667e51ed040800000000000000
+      internalID: 4674197546863126419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Cinza Hor Compl_20"
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 70
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1945ddf42054c51c0800000000000000
+      internalID: -4513656850299923311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Cinza Hor Compl_21"
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 70
+        width: 91
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79d8905463329e4c0800000000000000
+      internalID: -4257833256708633193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Cinza Hor Compl_22"
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 70
+        width: 34
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed0c939bd0d8b3000800000000000000
+      internalID: 16762113707589854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Cinza Hor Compl_23"
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 10
+        width: 6
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f39f26360e19032e0800000000000000
+      internalID: -2148056629329594049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Cinza Hor Compl_24"
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 69
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba419d48ae18a97f0800000000000000
+      internalID: -605028355676760917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Cinza Hor Compl_25"
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 69
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a26e63141b2e6b00800000000000000
+      internalID: 823643147080721059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Cinza Hor Compl_26"
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 70
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d0a8218735cda5f0800000000000000
+      internalID: -743721521265467178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Cinza Hor Compl_27"
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 57
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d007976fcaa21de0800000000000000
+      internalID: -1363839929366937389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Cinza Hor Compl_28"
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 69
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d00cd1d6bf5eae3b0800000000000000
+      internalID: -5482316728339939315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Cinza Hor Compl_29"
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 69
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd35c3f96c0f93360800000000000000
+      internalID: 7150010619293094879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Cinza Hor Compl_30"
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 10
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a982c6312ba6a060800000000000000
+      internalID: 6964442032916040096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Cinza Hor Compl_31"
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 10
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8e4ad93af0199470800000000000000
+      internalID: 8401765246734847626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Cinza Hor Compl_32"
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 10
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7447675bd1ff11fc0800000000000000
+      internalID: -3525756530190814137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Cinza Hor Compl_33"
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 43
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75e76cd6192b53390800000000000000
+      internalID: -7839163238686753193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Cinza Hor Compl_34"
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 10
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1530e01efd287f1e0800000000000000
+      internalID: -2164117197863124143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Cinza Hor Compl_35"
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 10
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9977d8386377fce0800000000000000
+      internalID: -1371500670043588194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Cinza Hor Compl_36"
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 10
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0ac271798e62b070800000000000000
+      internalID: 8120674614695348751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Cinza Hor Compl_37"
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 10
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e08a2ade1bb28f400800000000000000
+      internalID: 358084213572020238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Cinza Hor Compl_38"
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 10
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36908c92add6142a0800000000000000
+      internalID: -6754997182307759773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Cinza Hor Compl_39"
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 9
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f16519ab813693c0800000000000000
+      internalID: -4353237513900039696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Cinza Hor Compl_40"
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 42
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9878a7fb78c4a2e00800000000000000
+      internalID: 1020712411469612937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Cinza Hor Compl_41"
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 10
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13e4e7818e46148f0800000000000000
+      internalID: -558053930811109839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Cinza Hor Compl_42"
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 43
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f6df0da426503f80800000000000000
+      internalID: -8128902611881437450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Cinza Hor Compl_43"
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 43
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e35d7553e28303c0800000000000000
+      internalID: -4394524898480008220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Cinza Hor Compl_44"
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 10
+        width: 7
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4a0796b464424750800000000000000
+      internalID: 6287663229113403980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Cinza Hor Compl_45"
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 10
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2fef0834428b24d0800000000000000
+      internalID: -3158287484160315605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Cinza Hor Compl_46"
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 10
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a68db09b33a056b0800000000000000
+      internalID: -5309564484443076954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Cinza Hor Compl_47"
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 10
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6462b024f2546ea00800000000000000
+      internalID: 785391254296536646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Cinza Hor Compl_48"
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 10
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 197eff6a907ff96f0800000000000000
+      internalID: -675549798253729903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Cinza Hor Compl_49"
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 10
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f51171d69aed7d2a0800000000000000
+      internalID: -6712651900311367329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Cinza Hor Compl_50"
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 10
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f03eb68244a4e6bc0800000000000000
+      internalID: -3788008579975617777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Cinza Hor Compl_51"
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 10
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9850d324b9df2920800000000000000
+      internalID: 2967830047178643610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Cinza Hor Compl_52"
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 10
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 694c830d06c745760800000000000000
+      internalID: 7445712839202358422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Cinza Hor Compl_53"
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 10
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9df1bf0a6aef9d3a0800000000000000
+      internalID: -6639996183962247207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Cinza Hor Compl_54"
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 9
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2f53e7d142d73fd0800000000000000
+      internalID: -2362188299295826133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Cinza Hor Compl_55"
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 9
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52eb5d1f9d7b87ef0800000000000000
+      internalID: -110136044177474011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Cinza Hor Compl_56"
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 10
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74d616de202315dc0800000000000000
+      internalID: -3652082834666853049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Cinza Hor Compl_57"
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 9
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8418f4b53ae5cd60800000000000000
+      internalID: 7909985836936467596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Cinza Hor Compl_58"
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 22
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be88af50ddd2644a0800000000000000
+      internalID: -6609544975808296725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Cinza Hor Compl_59"
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 10
+        width: 7
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 252f2ecb906903ab0800000000000000
+      internalID: -5030355815204982190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Cinza Hor Compl_60"
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 10
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6293f425bd2ea7590800000000000000
+      internalID: -7675573183292950234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Cinza Hor Compl_61"
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 10
+        width: 7
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21b7e158d32be8180800000000000000
+      internalID: -9111149018827818222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Cinza Hor Compl_62"
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 10
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71bc15c1ad05a4de0800000000000000
+      internalID: -1348176240735827177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

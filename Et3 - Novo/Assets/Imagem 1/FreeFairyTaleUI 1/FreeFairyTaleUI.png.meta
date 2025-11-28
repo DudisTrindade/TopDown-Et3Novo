@@ -363,6 +363,32 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -2359,7 +2385,97 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      FreeFairyTaleUI_0: 6718178823682040979
+      FreeFairyTaleUI_1: -6758093832404271018
+      FreeFairyTaleUI_10: -8416600810271349295
+      FreeFairyTaleUI_11: 7351720911053185736
+      FreeFairyTaleUI_12: -2155423864104219656
+      FreeFairyTaleUI_13: 5201806391431205767
+      FreeFairyTaleUI_14: 2876524432412596235
+      FreeFairyTaleUI_15: -3135000231220214342
+      FreeFairyTaleUI_16: 4969217214159909401
+      FreeFairyTaleUI_17: 2992205317625886322
+      FreeFairyTaleUI_18: -7471251768478069565
+      FreeFairyTaleUI_19: -4412543150188017777
+      FreeFairyTaleUI_2: -7458692855283966953
+      FreeFairyTaleUI_20: 1527832373839046114
+      FreeFairyTaleUI_21: -4178017638054345214
+      FreeFairyTaleUI_22: -6317451929959801955
+      FreeFairyTaleUI_23: -1442221923065175175
+      FreeFairyTaleUI_24: -8204002891331391706
+      FreeFairyTaleUI_25: -5424173299584358605
+      FreeFairyTaleUI_26: -2695959343154942504
+      FreeFairyTaleUI_27: -2064260766511528026
+      FreeFairyTaleUI_28: -4812156375215269113
+      FreeFairyTaleUI_29: -6497071219595152365
+      FreeFairyTaleUI_3: 4568119844075061184
+      FreeFairyTaleUI_30: 7121946643816312277
+      FreeFairyTaleUI_31: 4077729918569333425
+      FreeFairyTaleUI_32: 197605685043251964
+      FreeFairyTaleUI_33: -1092695193081977674
+      FreeFairyTaleUI_34: 7001386409941509544
+      FreeFairyTaleUI_35: 376639848561653420
+      FreeFairyTaleUI_36: -4045665089533159768
+      FreeFairyTaleUI_37: 6151581571205429774
+      FreeFairyTaleUI_38: 7002803094538190369
+      FreeFairyTaleUI_39: -7313794281843915280
+      FreeFairyTaleUI_4: 7491393063132629590
+      FreeFairyTaleUI_40: 8545152632433587446
+      FreeFairyTaleUI_41: -6176355493320169677
+      FreeFairyTaleUI_42: -3215301190712734685
+      FreeFairyTaleUI_43: 4736787355873602463
+      FreeFairyTaleUI_44: 7368394437434093988
+      FreeFairyTaleUI_45: -7141050422572765782
+      FreeFairyTaleUI_46: 7468682066299062336
+      FreeFairyTaleUI_47: 4929144248850645459
+      FreeFairyTaleUI_48: 6122864787746657349
+      FreeFairyTaleUI_49: -7681138125048669563
+      FreeFairyTaleUI_5: 5889426076804596142
+      FreeFairyTaleUI_50: -5260021847131916058
+      FreeFairyTaleUI_51: -6747184412212408423
+      FreeFairyTaleUI_52: -7978276841413168423
+      FreeFairyTaleUI_53: 5742870348060381119
+      FreeFairyTaleUI_54: 400146804141427245
+      FreeFairyTaleUI_55: 8062675769227593100
+      FreeFairyTaleUI_56: -2517923541434731943
+      FreeFairyTaleUI_57: 5641555868170387328
+      FreeFairyTaleUI_58: -3831907899808339316
+      FreeFairyTaleUI_59: 3619619150341307860
+      FreeFairyTaleUI_6: -168185298505107879
+      FreeFairyTaleUI_60: -6882443023537141857
+      FreeFairyTaleUI_61: 2575134873560797196
+      FreeFairyTaleUI_62: 7191094159092996290
+      FreeFairyTaleUI_63: -3315780118823747779
+      FreeFairyTaleUI_64: -981774109350595083
+      FreeFairyTaleUI_65: -5475939074942211085
+      FreeFairyTaleUI_66: -3209907876657392997
+      FreeFairyTaleUI_67: -2857982199754707381
+      FreeFairyTaleUI_68: -839393856316970206
+      FreeFairyTaleUI_69: -4334929615378491415
+      FreeFairyTaleUI_7: 3982215202457094981
+      FreeFairyTaleUI_70: -5663606672190019939
+      FreeFairyTaleUI_71: -6284902339874681856
+      FreeFairyTaleUI_72: 8178233916598895734
+      FreeFairyTaleUI_73: -5511354431400587140
+      FreeFairyTaleUI_74: -4655963353573351408
+      FreeFairyTaleUI_75: -18656571897577251
+      FreeFairyTaleUI_76: 4974825022735828745
+      FreeFairyTaleUI_77: 2566457505381997723
+      FreeFairyTaleUI_78: -1347921703446633341
+      FreeFairyTaleUI_79: -1977605816709842530
+      FreeFairyTaleUI_8: 5631434298116281626
+      FreeFairyTaleUI_80: -1079427738011797823
+      FreeFairyTaleUI_81: -7043269823751658470
+      FreeFairyTaleUI_82: -2757041355583214312
+      FreeFairyTaleUI_83: -6085272408029227644
+      FreeFairyTaleUI_84: -5577665272318986488
+      FreeFairyTaleUI_85: 4121958891885096225
+      FreeFairyTaleUI_86: 8055073882186019171
+      FreeFairyTaleUI_87: 752743912787989956
+      FreeFairyTaleUI_88: -6212957875336812578
+      FreeFairyTaleUI_89: -6162585655618566220
+      FreeFairyTaleUI_9: -2467940986344356991
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

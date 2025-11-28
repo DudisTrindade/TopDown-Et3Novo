@@ -1,172 +1,196 @@
 fileFormatVersion: 2
-guid: 69a21ffa9ba394e49bfe6a5fac4f9b9f
+guid: 74c88eb1dcb5a344cb42eb8057f86a69
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -2712965080552235136
-    second: Windows_0
+      213: -4912826907676959521
+    second: "Campus Cear\xE1-Mirim - Logo_Posit Vert_0"
   - first:
-      213: -6202620245911416931
-    second: Windows_1
+      213: -7850353597645994559
+    second: "Campus Cear\xE1-Mirim - Logo_Posit Vert_1"
   - first:
-      213: -6677279742194608663
-    second: Windows_2
+      213: -1155699085724079867
+    second: "Campus Cear\xE1-Mirim - Logo_Posit Vert_2"
   - first:
-      213: -7500360871514107123
-    second: Windows_3
+      213: -5458983697278494412
+    second: "Campus Cear\xE1-Mirim - Logo_Posit Vert_3"
   - first:
-      213: -4853824523064533287
-    second: Windows_4
+      213: -4339206988185259080
+    second: "Campus Cear\xE1-Mirim - Logo_Posit Vert_4"
   - first:
-      213: -753431888473554220
-    second: Windows_5
+      213: 2403334118012282227
+    second: "Campus Cear\xE1-Mirim - Logo_Posit Vert_5"
   - first:
-      213: 7250032703235838348
-    second: Windows_6
+      213: 2919259103671263492
+    second: "Campus Cear\xE1-Mirim - Logo_Posit Vert_6"
   - first:
-      213: -311745519279340015
-    second: Windows_7
+      213: -55127124136714630
+    second: "Campus Cear\xE1-Mirim - Logo_Posit Vert_7"
   - first:
-      213: -4184484094318694091
-    second: Windows_8
+      213: 5081178868512826619
+    second: "Campus Cear\xE1-Mirim - Logo_Posit Vert_8"
   - first:
-      213: 3016992840622293049
-    second: Windows_9
+      213: 8609206346989363360
+    second: "Campus Cear\xE1-Mirim - Logo_Posit Vert_9"
   - first:
-      213: 6952533603709256229
-    second: Windows_10
+      213: 3058458453146835927
+    second: "Campus Cear\xE1-Mirim - Logo_Posit Vert_10"
   - first:
-      213: 7623202017060836286
-    second: Windows_11
+      213: 6665454250035002729
+    second: "Campus Cear\xE1-Mirim - Logo_Posit Vert_11"
   - first:
-      213: 2373180838748359268
-    second: Windows_12
+      213: 6643152349314348463
+    second: "Campus Cear\xE1-Mirim - Logo_Posit Vert_12"
   - first:
-      213: 2557580305063876822
-    second: Windows_13
+      213: -217265489477822514
+    second: "Campus Cear\xE1-Mirim - Logo_Posit Vert_13"
   - first:
-      213: 4898801646686679027
-    second: Windows_14
+      213: -5226711307206740340
+    second: "Campus Cear\xE1-Mirim - Logo_Posit Vert_14"
   - first:
-      213: 3924496672111592863
-    second: Windows_15
+      213: -4231701119257253701
+    second: "Campus Cear\xE1-Mirim - Logo_Posit Vert_15"
   - first:
-      213: -4290862330766614052
-    second: Windows_16
+      213: 4099452096401463231
+    second: "Campus Cear\xE1-Mirim - Logo_Posit Vert_16"
   - first:
-      213: 5656299820432990787
-    second: Windows_17
+      213: -1990464548488720531
+    second: "Campus Cear\xE1-Mirim - Logo_Posit Vert_17"
   - first:
-      213: -2072416266485079537
-    second: Windows_18
+      213: -6573142773363068994
+    second: "Campus Cear\xE1-Mirim - Logo_Posit Vert_18"
   - first:
-      213: -4008713283959896425
-    second: Windows_19
+      213: 674147624511996783
+    second: "Campus Cear\xE1-Mirim - Logo_Posit Vert_19"
   - first:
-      213: 8732018472867795083
-    second: Windows_20
+      213: -1399447115089104032
+    second: "Campus Cear\xE1-Mirim - Logo_Posit Vert_20"
   - first:
-      213: -7360247758398672853
-    second: Windows_21
+      213: 2724760583551106151
+    second: "Campus Cear\xE1-Mirim - Logo_Posit Vert_21"
   - first:
-      213: -8476310321111939304
-    second: Windows_22
+      213: -3652487147259462088
+    second: "Campus Cear\xE1-Mirim - Logo_Posit Vert_22"
   - first:
-      213: -8227149906472366451
-    second: Windows_23
+      213: 9073244382094770649
+    second: "Campus Cear\xE1-Mirim - Logo_Posit Vert_23"
   - first:
-      213: -6879206147899864493
-    second: Windows_24
+      213: 2305984665635770227
+    second: "Campus Cear\xE1-Mirim - Logo_Posit Vert_24"
   - first:
-      213: 1913425252321511326
-    second: Windows_25
+      213: -5334477475263695079
+    second: "Campus Cear\xE1-Mirim - Logo_Posit Vert_25"
   - first:
-      213: 2819027839890318867
-    second: Windows_26
+      213: 5651032515741307582
+    second: "Campus Cear\xE1-Mirim - Logo_Posit Vert_26"
   - first:
-      213: 3615106597314717051
-    second: Windows_27
+      213: 5064857447882689474
+    second: "Campus Cear\xE1-Mirim - Logo_Posit Vert_27"
   - first:
-      213: 2143939760708950422
-    second: Windows_28
+      213: -2906498124887313377
+    second: "Campus Cear\xE1-Mirim - Logo_Posit Vert_28"
   - first:
-      213: 8740618902415213645
-    second: Windows_29
+      213: -5273729644765728468
+    second: "Campus Cear\xE1-Mirim - Logo_Posit Vert_29"
   - first:
-      213: -2035172448893234033
-    second: Windows_30
+      213: -8791644713891250690
+    second: "Campus Cear\xE1-Mirim - Logo_Posit Vert_30"
   - first:
-      213: 5051851805745486178
-    second: Windows_31
+      213: 819742944463703763
+    second: "Campus Cear\xE1-Mirim - Logo_Posit Vert_31"
   - first:
-      213: -6070259340843427594
-    second: Windows_32
+      213: -7497333027922572887
+    second: "Campus Cear\xE1-Mirim - Logo_Posit Vert_32"
   - first:
-      213: 7436417782252467017
-    second: Windows_33
+      213: 6990450179778506040
+    second: "Campus Cear\xE1-Mirim - Logo_Posit Vert_33"
   - first:
-      213: 5427223688068064897
-    second: Windows_34
+      213: -5087327975667649730
+    second: "Campus Cear\xE1-Mirim - Logo_Posit Vert_34"
   - first:
-      213: -7605813849206081236
-    second: Windows_35
+      213: -8653339534684943502
+    second: "Campus Cear\xE1-Mirim - Logo_Posit Vert_35"
   - first:
-      213: 1587400088514877187
-    second: Windows_36
+      213: 9094507598969213468
+    second: "Campus Cear\xE1-Mirim - Logo_Posit Vert_36"
   - first:
-      213: -5413046417812492632
-    second: Windows_37
+      213: -7583172780593318906
+    second: "Campus Cear\xE1-Mirim - Logo_Posit Vert_37"
   - first:
-      213: -534036128405053622
-    second: Windows_38
+      213: -7610649619174917574
+    second: "Campus Cear\xE1-Mirim - Logo_Posit Vert_38"
   - first:
-      213: -3137716278263304016
-    second: Windows_39
+      213: 8702692209387462518
+    second: "Campus Cear\xE1-Mirim - Logo_Posit Vert_39"
   - first:
-      213: -5616113843002912617
-    second: Windows_40
+      213: -5741634202912679895
+    second: "Campus Cear\xE1-Mirim - Logo_Posit Vert_40"
   - first:
-      213: -9082749012352545364
-    second: Windows_41
+      213: -6857440421117010814
+    second: "Campus Cear\xE1-Mirim - Logo_Posit Vert_41"
   - first:
-      213: 7630508787456814367
-    second: Windows_42
+      213: 5020430738251088178
+    second: "Campus Cear\xE1-Mirim - Logo_Posit Vert_42"
   - first:
-      213: -4721629468099289116
-    second: Windows_43
+      213: -3579984820853333778
+    second: "Campus Cear\xE1-Mirim - Logo_Posit Vert_43"
   - first:
-      213: -7932194453839216733
-    second: Windows_44
+      213: -1609520855996159250
+    second: "Campus Cear\xE1-Mirim - Logo_Posit Vert_44"
   - first:
-      213: -6123597838303684737
-    second: Windows_45
+      213: -5006324780746457129
+    second: "Campus Cear\xE1-Mirim - Logo_Posit Vert_45"
   - first:
-      213: -1026924269489046172
-    second: Windows_46
+      213: 1754707487797756385
+    second: "Campus Cear\xE1-Mirim - Logo_Posit Vert_46"
   - first:
-      213: 1019740943051424203
-    second: Windows_47
+      213: -6206023889851713011
+    second: "Campus Cear\xE1-Mirim - Logo_Posit Vert_47"
   - first:
-      213: 6055727183000991421
-    second: Windows_48
+      213: -8374328146695101394
+    second: "Campus Cear\xE1-Mirim - Logo_Posit Vert_48"
   - first:
-      213: 8106998415928726589
-    second: Windows_49
+      213: 8001890464931892097
+    second: "Campus Cear\xE1-Mirim - Logo_Posit Vert_49"
   - first:
-      213: -2523580044350721496
-    second: Windows_50
+      213: 8964706250360255109
+    second: "Campus Cear\xE1-Mirim - Logo_Posit Vert_50"
   - first:
-      213: -5304137365759917043
-    second: Windows_51
+      213: 8683212009933471559
+    second: "Campus Cear\xE1-Mirim - Logo_Posit Vert_51"
   - first:
-      213: -5241223240880923958
-    second: Windows_52
+      213: -458604550982689605
+    second: "Campus Cear\xE1-Mirim - Logo_Posit Vert_52"
   - first:
-      213: 6838933084595983179
-    second: Windows_53
+      213: -5654454014175073075
+    second: "Campus Cear\xE1-Mirim - Logo_Posit Vert_53"
   - first:
-      213: -4820487270976498853
-    second: Windows_54
+      213: 1255215608216297059
+    second: "Campus Cear\xE1-Mirim - Logo_Posit Vert_54"
+  - first:
+      213: 8710600563017679116
+    second: "Campus Cear\xE1-Mirim - Logo_Posit Vert_55"
+  - first:
+      213: -8391374567386231276
+    second: "Campus Cear\xE1-Mirim - Logo_Posit Vert_56"
+  - first:
+      213: 5109097492621319939
+    second: "Campus Cear\xE1-Mirim - Logo_Posit Vert_57"
+  - first:
+      213: 7375206414669307121
+    second: "Campus Cear\xE1-Mirim - Logo_Posit Vert_58"
+  - first:
+      213: 6373552082742599652
+    second: "Campus Cear\xE1-Mirim - Logo_Posit Vert_59"
+  - first:
+      213: 8958248971905198252
+    second: "Campus Cear\xE1-Mirim - Logo_Posit Vert_60"
+  - first:
+      213: -5862671667416802603
+    second: "Campus Cear\xE1-Mirim - Logo_Posit Vert_61"
+  - first:
+      213: -7561176722271904846
+    second: "Campus Cear\xE1-Mirim - Logo_Posit Vert_62"
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -288,13 +312,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Windows_0
+      name: "Campus Cear\xE1-Mirim - Logo_Posit Vert_0"
       rect:
         serializedVersion: 2
-        x: 0
-        y: 2949
-        width: 1115
-        height: 838
+        x: 165
+        y: 530
+        width: 58
+        height: 58
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -303,20 +327,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 08f15a512ac995ad0800000000000000
-      internalID: -2712965080552235136
+      spriteID: fdc1fece4f122dbb0800000000000000
+      internalID: -4912826907676959521
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Windows_1
+      name: "Campus Cear\xE1-Mirim - Logo_Posit Vert_1"
       rect:
         serializedVersion: 2
-        x: 1220
-        y: 2949
-        width: 1047
-        height: 838
+        x: 228
+        y: 533
+        width: 53
+        height: 53
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -325,20 +349,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d9fcdcdcfbddbe9a0800000000000000
-      internalID: -6202620245911416931
+      spriteID: 1c5c913fef0fd0390800000000000000
+      internalID: -7850353597645994559
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Windows_2
+      name: "Campus Cear\xE1-Mirim - Logo_Posit Vert_2"
       rect:
         serializedVersion: 2
-        x: 2365
-        y: 3005
-        width: 1047
-        height: 718
+        x: 288
+        y: 533
+        width: 53
+        height: 53
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -347,20 +371,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9e51494c3798553a0800000000000000
-      internalID: -6677279742194608663
+      spriteID: 5092c200ec126ffe0800000000000000
+      internalID: -1155699085724079867
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Windows_3
+      name: "Campus Cear\xE1-Mirim - Logo_Posit Vert_3"
       rect:
         serializedVersion: 2
-        x: 3565
-        y: 3642
-        width: 717
-        height: 145
+        x: 168
+        y: 473
+        width: 53
+        height: 53
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -369,20 +393,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d039926a68d59e790800000000000000
-      internalID: -7500360871514107123
+      spriteID: 4391111104bcd34b0800000000000000
+      internalID: -5458983697278494412
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Windows_4
+      name: "Campus Cear\xE1-Mirim - Logo_Posit Vert_4"
       rect:
         serializedVersion: 2
-        x: 3578
-        y: 3434
-        width: 716
-        height: 165
+        x: 228
+        y: 473
+        width: 53
+        height: 53
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -391,20 +415,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9de98ac1050c3acb0800000000000000
-      internalID: -4853824523064533287
+      spriteID: 8b3335efb3a08c3c0800000000000000
+      internalID: -4339206988185259080
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Windows_5
+      name: "Campus Cear\xE1-Mirim - Logo_Posit Vert_5"
       rect:
         serializedVersion: 2
-        x: 4232
-        y: 2870
-        width: 527
-        height: 109
+        x: 168
+        y: 413
+        width: 53
+        height: 53
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -413,20 +437,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4d2051570b54b85f0800000000000000
-      internalID: -753431888473554220
+      spriteID: 375e2bc95ab5a5120800000000000000
+      internalID: 2403334118012282227
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Windows_6
+      name: "Campus Cear\xE1-Mirim - Logo_Posit Vert_6"
       rect:
         serializedVersion: 2
-        x: 86
-        y: 2109
-        width: 553
-        height: 746
+        x: 228
+        y: 413
+        width: 53
+        height: 53
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -435,20 +459,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c81565ec45a4d9460800000000000000
-      internalID: 7250032703235838348
+      spriteID: 401a6a910ba438820800000000000000
+      internalID: 2919259103671263492
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Windows_7
+      name: "Campus Cear\xE1-Mirim - Logo_Posit Vert_7"
       rect:
         serializedVersion: 2
-        x: 798
-        y: 2109
-        width: 553
-        height: 746
+        x: 288
+        y: 413
+        width: 53
+        height: 53
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -457,20 +481,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 11609071a157cabf0800000000000000
-      internalID: -311745519279340015
+      spriteID: a7e97543c262c3ff0800000000000000
+      internalID: -55127124136714630
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Windows_8
+      name: "Campus Cear\xE1-Mirim - Logo_Posit Vert_8"
       rect:
         serializedVersion: 2
-        x: 1503
-        y: 2109
-        width: 505
-        height: 719
+        x: 168
+        y: 353
+        width: 53
+        height: 53
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -479,20 +503,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 531bcd5f2e9bde5c0800000000000000
-      internalID: -4184484094318694091
+      spriteID: bf4ade97249f38640800000000000000
+      internalID: 5081178868512826619
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Windows_9
+      name: "Campus Cear\xE1-Mirim - Logo_Posit Vert_9"
       rect:
         serializedVersion: 2
-        x: 2102
-        y: 2741
-        width: 553
-        height: 114
+        x: 228
+        y: 353
+        width: 53
+        height: 53
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -501,20 +525,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 930403bf0038ed920800000000000000
-      internalID: 3016992840622293049
+      spriteID: 0a0e65e1f8b0a7770800000000000000
+      internalID: 8609206346989363360
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Windows_10
+      name: "Campus Cear\xE1-Mirim - Logo_Posit Vert_10"
       rect:
         serializedVersion: 2
-        x: 2767
-        y: 2314
-        width: 620
-        height: 518
+        x: 72
+        y: 268
+        width: 13
+        height: 53
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -523,20 +547,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5228e0af97c5c7060800000000000000
-      internalID: 6952533603709256229
+      spriteID: 7db9b1c32c3d17a20800000000000000
+      internalID: 3058458453146835927
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Windows_11
+      name: "Campus Cear\xE1-Mirim - Logo_Posit Vert_11"
       rect:
         serializedVersion: 2
-        x: 3480
-        y: 2358
-        width: 619
-        height: 474
+        x: 95
+        y: 268
+        width: 47
+        height: 53
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -545,20 +569,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: eb3d3f558dd0bc960800000000000000
-      internalID: 7623202017060836286
+      spriteID: 96d34f74353708c50800000000000000
+      internalID: 6665454250035002729
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Windows_12
+      name: "Campus Cear\xE1-Mirim - Logo_Posit Vert_12"
       rect:
         serializedVersion: 2
-        x: 4186
-        y: 2358
-        width: 620
-        height: 425
+        x: 149
+        y: 267
+        width: 35
+        height: 54
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -567,20 +591,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 46a0c51366b3fe020800000000000000
-      internalID: 2373180838748359268
+      spriteID: fa5fea16dd7313c50800000000000000
+      internalID: 6643152349314348463
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Windows_13
+      name: "Campus Cear\xE1-Mirim - Logo_Posit Vert_13"
       rect:
         serializedVersion: 2
-        x: 92
-        y: 968
-        width: 670
-        height: 962
+        x: 185
+        y: 268
+        width: 41
+        height: 53
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -589,20 +613,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6d81edf9cb95e7320800000000000000
-      internalID: 2557580305063876822
+      spriteID: ec719bd303e1cfcf0800000000000000
+      internalID: -217265489477822514
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Windows_14
+      name: "Campus Cear\xE1-Mirim - Logo_Posit Vert_14"
       rect:
         serializedVersion: 2
-        x: 934
-        y: 968
-        width: 669
-        height: 962
+        x: 231
+        y: 268
+        width: 14
+        height: 53
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -611,20 +635,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3ffabd7842a0cf340800000000000000
-      internalID: 4898801646686679027
+      spriteID: c86bc6622cdf677b0800000000000000
+      internalID: -5226711307206740340
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Windows_15
+      name: "Campus Cear\xE1-Mirim - Logo_Posit Vert_15"
       rect:
         serializedVersion: 2
-        x: 1783
-        y: 968
-        width: 669
-        height: 962
+        x: 249
+        y: 268
+        width: 41
+        height: 53
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -633,20 +657,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f950a6f2eec967630800000000000000
-      internalID: 3924496672111592863
+      spriteID: bb86c07a04af545c0800000000000000
+      internalID: -4231701119257253701
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Windows_16
+      name: "Campus Cear\xE1-Mirim - Logo_Posit Vert_16"
       rect:
         serializedVersion: 2
-        x: 2642
-        y: 1747
-        width: 650
-        height: 321
+        x: 294
+        y: 267
+        width: 44
+        height: 54
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -655,20 +679,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: cd12d82b17bc374c0800000000000000
-      internalID: -4290862330766614052
+      spriteID: fb75dbb36fd24e830800000000000000
+      internalID: 4099452096401463231
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Windows_17
+      name: "Campus Cear\xE1-Mirim - Logo_Posit Vert_17"
       rect:
         serializedVersion: 2
-        x: 3509
-        y: 1759
-        width: 322
-        height: 221
+        x: 343
+        y: 268
+        width: 40
+        height: 53
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -677,657 +701,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 342a304e7b63f7e40800000000000000
-      internalID: 5656299820432990787
+      spriteID: d6f42510a037064e0800000000000000
+      internalID: -1990464548488720531
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Windows_18
+      name: "Campus Cear\xE1-Mirim - Logo_Posit Vert_18"
       rect:
         serializedVersion: 2
-        x: 2659
-        y: 1025
-        width: 615
-        height: 652
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f026a61c26c4d33e0800000000000000
-      internalID: -2072416266485079537
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Windows_19
-      rect:
-        serializedVersion: 2
-        x: 3346
-        y: 1583
-        width: 669
-        height: 137
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7964e2fd1803e58c0800000000000000
-      internalID: -4008713283959896425
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Windows_20
-      rect:
-        serializedVersion: 2
-        x: 3374
-        y: 1361
-        width: 158
-        height: 147
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b801f6f698c5e2970800000000000000
-      internalID: 8732018472867795083
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Windows_21
-      rect:
-        serializedVersion: 2
-        x: 3552
-        y: 1392
-        width: 181
-        height: 168
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b2038c5f8a52bd990800000000000000
-      internalID: -7360247758398672853
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Windows_22
-      rect:
-        serializedVersion: 2
-        x: 3762
-        y: 1361
-        width: 158
-        height: 147
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 81745202ca81e5a80800000000000000
-      internalID: -8476310321111939304
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Windows_23
-      rect:
-        serializedVersion: 2
-        x: 3532
-        y: 1251
-        width: 274
-        height: 88
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d8e83d6dfba43dd80800000000000000
-      internalID: -8227149906472366451
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Windows_24
-      rect:
-        serializedVersion: 2
-        x: 4146
-        y: 1169
-        width: 117
-        height: 117
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 35aceb1c4762880a0800000000000000
-      internalID: -6879206147899864493
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Windows_25
-      rect:
-        serializedVersion: 2
-        x: 4298
-        y: 1168
-        width: 100
-        height: 117
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e97c2e4112add8a10800000000000000
-      internalID: 1913425252321511326
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Windows_26
-      rect:
-        serializedVersion: 2
-        x: 4433
-        y: 1160
-        width: 117
-        height: 129
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 316699072e23f1720800000000000000
-      internalID: 2819027839890318867
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Windows_27
-      rect:
-        serializedVersion: 2
-        x: 4597
-        y: 1159
-        width: 192
-        height: 132
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b756d1eeb407b2230800000000000000
-      internalID: 3615106597314717051
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Windows_28
-      rect:
-        serializedVersion: 2
-        x: 3532
-        y: 1149
-        width: 274
-        height: 88
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 69994e07addc0cd10800000000000000
-      internalID: 2143939760708950422
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Windows_29
-      rect:
-        serializedVersion: 2
-        x: 3426
-        y: 968
-        width: 475
-        height: 144
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d44068bf49aec4970800000000000000
-      internalID: 8740618902415213645
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Windows_30
-      rect:
-        serializedVersion: 2
-        x: 4168
-        y: 1003
-        width: 121
-        height: 131
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f849e07c07d91c3e0800000000000000
-      internalID: -2035172448893234033
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Windows_31
-      rect:
-        serializedVersion: 2
-        x: 4344
-        y: 1001
-        width: 124
-        height: 116
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 26910639378cb1640800000000000000
-      internalID: 5051851805745486178
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Windows_32
-      rect:
-        serializedVersion: 2
-        x: 4510
-        y: 1000
-        width: 132
-        height: 122
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6f8d7868a4b12cba0800000000000000
-      internalID: -6070259340843427594
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Windows_33
-      rect:
-        serializedVersion: 2
-        x: 114
-        y: 74
-        width: 632
-        height: 785
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9437e88b296733760800000000000000
-      internalID: 7436417782252467017
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Windows_34
-      rect:
-        serializedVersion: 2
-        x: 929
-        y: 74
-        width: 632
-        height: 785
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 186e1eb803f515b40800000000000000
-      internalID: 5427223688068064897
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Windows_35
-      rect:
-        serializedVersion: 2
-        x: 1680
-        y: 114
-        width: 614
-        height: 718
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c29335af998b27690800000000000000
-      internalID: -7605813849206081236
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Windows_36
-      rect:
-        serializedVersion: 2
-        x: 2361
-        y: 794
-        width: 553
-        height: 114
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3075a5858f3970610800000000000000
-      internalID: 1587400088514877187
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Windows_37
-      rect:
-        serializedVersion: 2
-        x: 3037
-        y: 705
-        width: 332
-        height: 123
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8aee59966fef0e4b0800000000000000
-      internalID: -5413046417812492632
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Windows_38
-      rect:
-        serializedVersion: 2
-        x: 3404
-        y: 705
-        width: 333
-        height: 123
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a4f113d78f8b698f0800000000000000
-      internalID: -534036128405053622
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Windows_39
-      rect:
-        serializedVersion: 2
-        x: 3805
-        y: 705
-        width: 333
-        height: 123
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0b0b7245ba79474d0800000000000000
-      internalID: -3137716278263304016
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Windows_40
-      rect:
-        serializedVersion: 2
-        x: 4173
-        y: 705
-        width: 333
-        height: 123
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 79058a9173e8f02b0800000000000000
-      internalID: -5616113843002912617
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Windows_41
-      rect:
-        serializedVersion: 2
-        x: 2414
-        y: 215
-        width: 395
-        height: 525
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: cad42be45e793f180800000000000000
-      internalID: -9082749012352545364
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Windows_42
-      rect:
-        serializedVersion: 2
-        x: 3037
-        y: 554
-        width: 507
-        height: 122
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f1d2cd3605305e960800000000000000
-      internalID: 7630508787456814367
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Windows_43
-      rect:
-        serializedVersion: 2
-        x: 3585
-        y: 554
-        width: 508
-        height: 122
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4efdce8d307697eb0800000000000000
-      internalID: -4721629468099289116
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Windows_44
-      rect:
-        serializedVersion: 2
-        x: 3287
-        y: 429
-        width: 507
-        height: 122
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3aff699bb2f2be190800000000000000
-      internalID: -7932194453839216733
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Windows_45
-      rect:
-        serializedVersion: 2
-        x: 3037
-        y: 275
-        width: 507
-        height: 122
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f771f84d53c940ba0800000000000000
-      internalID: -6123597838303684737
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Windows_46
-      rect:
-        serializedVersion: 2
-        x: 3585
-        y: 275
-        width: 508
-        height: 122
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 46db0e951d1afb1f0800000000000000
-      internalID: -1026924269489046172
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Windows_47
-      rect:
-        serializedVersion: 2
-        x: 4155
-        y: 348
-        width: 336
+        x: 386
+        y: 267
+        width: 51
         height: 55
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -1337,20 +723,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: bc180812cf8d62e00800000000000000
-      internalID: 1019740943051424203
+      spriteID: ebfa4cf397187c4a0800000000000000
+      internalID: -6573142773363068994
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Windows_48
+      name: "Campus Cear\xE1-Mirim - Logo_Posit Vert_19"
       rect:
         serializedVersion: 2
-        x: 4532
-        y: 348
-        width: 336
-        height: 55
+        x: 106
+        y: 208
+        width: 32
+        height: 53
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1359,20 +745,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: db6737fc9c34a0450800000000000000
-      internalID: 6055727183000991421
+      spriteID: f63063551bd0b5900800000000000000
+      internalID: 674147624511996783
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Windows_49
+      name: "Campus Cear\xE1-Mirim - Logo_Posit Vert_20"
       rect:
         serializedVersion: 2
-        x: 4352
-        y: 280
-        width: 336
-        height: 55
+        x: 145
+        y: 208
+        width: 32
+        height: 53
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1381,20 +767,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d3416184b18d18070800000000000000
-      internalID: 8106998415928726589
+      spriteID: 0633b2f634a249ce0800000000000000
+      internalID: -1399447115089104032
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Windows_50
+      name: "Campus Cear\xE1-Mirim - Logo_Posit Vert_21"
       rect:
         serializedVersion: 2
-        x: 3030
-        y: 120
-        width: 508
-        height: 122
+        x: 184
+        y: 208
+        width: 44
+        height: 53
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1403,20 +789,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 822f536f1517afcd0800000000000000
-      internalID: -2523580044350721496
+      spriteID: 76cbc88705b40d520800000000000000
+      internalID: 2724760583551106151
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Windows_51
+      name: "Campus Cear\xE1-Mirim - Logo_Posit Vert_22"
       rect:
         serializedVersion: 2
-        x: 3585
-        y: 120
-        width: 507
-        height: 122
+        x: 236
+        y: 208
+        width: 32
+        height: 53
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1425,20 +811,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d04010a1b2be366b0800000000000000
-      internalID: -5304137365759917043
+      spriteID: 83e7be09a42cf4dc0800000000000000
+      internalID: -3652487147259462088
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Windows_52
+      name: "Campus Cear\xE1-Mirim - Logo_Posit Vert_23"
       rect:
         serializedVersion: 2
-        x: 4151
-        y: 113
-        width: 508
-        height: 122
+        x: 275
+        y: 208
+        width: 91
+        height: 53
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1447,20 +833,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: aca55ca4b3f6347b0800000000000000
-      internalID: -5241223240880923958
+      spriteID: 9d1411381b3aaed70800000000000000
+      internalID: 9073244382094770649
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Windows_53
+      name: "Campus Cear\xE1-Mirim - Logo_Posit Vert_24"
       rect:
         serializedVersion: 2
-        x: 1667
-        y: 0
-        width: 282
-        height: 103
+        x: 370
+        y: 208
+        width: 34
+        height: 53
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1469,20 +855,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b43920ef765c8ee50800000000000000
-      internalID: 6838933084595983179
+      spriteID: 37fc7b4f5d0800020800000000000000
+      internalID: 2305984665635770227
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Windows_54
+      name: "Campus Cear\xE1-Mirim - Logo_Posit Vert_25"
       rect:
         serializedVersion: 2
-        x: 2017
-        y: 0
-        width: 282
-        height: 103
+        x: 4
+        y: 148
+        width: 29
+        height: 40
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1491,8 +877,822 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b535729fd503a1db0800000000000000
-      internalID: -4820487270976498853
+      spriteID: 917b590eff028f5b0800000000000000
+      internalID: -5334477475263695079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Posit Vert_26"
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 181
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb251f2f1208c6e40800000000000000
+      internalID: 5651032515741307582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Posit Vert_27"
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 147
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cb0a0b930df94640800000000000000
+      internalID: 5064857447882689474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Posit Vert_28"
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 147
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f14b0cdca5b0aa7d0800000000000000
+      internalID: -2906498124887313377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Posit Vert_29"
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 147
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c21ba4a54d2ffc6b0800000000000000
+      internalID: -5273729644765728468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Posit Vert_30"
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 148
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efd321d76bdcdf580800000000000000
+      internalID: -8791644713891250690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Posit Vert_31"
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 147
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3de44e36ddf406b00800000000000000
+      internalID: 819742944463703763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Posit Vert_32"
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 148
+        width: 8
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a90fdb655f14f790800000000000000
+      internalID: -7497333027922572887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Posit Vert_33"
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 147
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83d63c9c661130160800000000000000
+      internalID: 6990450179778506040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Posit Vert_34"
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 148
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e333c62f82e2669b0800000000000000
+      internalID: -5087327975667649730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Posit Vert_35"
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 147
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27b82426a8929e780800000000000000
+      internalID: -8653339534684943502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Posit Vert_36"
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 148
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1296abf97e263e70800000000000000
+      internalID: 9094507598969213468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Posit Vert_37"
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 147
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 604f25e888823c690800000000000000
+      internalID: -7583172780593318906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Posit Vert_38"
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 147
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3afd1b8e7a816690800000000000000
+      internalID: -7610649619174917574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Posit Vert_39"
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 147
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67f5912a47c26c870800000000000000
+      internalID: 8702692209387462518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Posit Vert_40"
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 148
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9281829ec1e9150b0800000000000000
+      internalID: -5741634202912679895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Posit Vert_41"
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 147
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28c5aeee44a75d0a0800000000000000
+      internalID: -6857440421117010814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Posit Vert_42"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 126
+        width: 413
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23188e438272ca540800000000000000
+      internalID: 5020430738251088178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Posit Vert_43"
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 70
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee02fb3e5c6515ec0800000000000000
+      internalID: -3579984820853333778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Posit Vert_44"
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 70
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eea24cf1f45d9a9e0800000000000000
+      internalID: -1609520855996159250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Posit Vert_45"
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 70
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7df3f55f226f58ab0800000000000000
+      internalID: -5006324780746457129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Posit Vert_46"
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 58
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e147eec929f95810800000000000000
+      internalID: 1754707487797756385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Posit Vert_47"
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 70
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0afcc13726cfd9a0800000000000000
+      internalID: -6206023889851713011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Posit Vert_48"
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 70
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e24eeaf6be868cb80800000000000000
+      internalID: -8374328146695101394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Posit Vert_49"
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 10
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18bc9d56bfc6c0f60800000000000000
+      internalID: 8001890464931892097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Posit Vert_50"
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 42
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 582727076d8096c70800000000000000
+      internalID: 8964706250360255109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Posit Vert_51"
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 10
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74f7d714157f08870800000000000000
+      internalID: 8683212009933471559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Posit Vert_52"
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 43
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbc9c463795b2a9f0800000000000000
+      internalID: -458604550982689605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Posit Vert_53"
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 43
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcc205e58085781b0800000000000000
+      internalID: -5654454014175073075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Posit Vert_54"
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 10
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36e124cf1fb6b6110800000000000000
+      internalID: 1255215608216297059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Posit Vert_55"
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 10
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c018cf2bf0542e870800000000000000
+      internalID: 8710600563017679116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Posit Vert_56"
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 10
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41e42b55a49db8b80800000000000000
+      internalID: -8391374567386231276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Posit Vert_57"
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 10
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30f5882b91927e640800000000000000
+      internalID: 5109097492621319939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Posit Vert_58"
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 22
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fcdb8b982ff95660800000000000000
+      internalID: 7375206414669307121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Posit Vert_59"
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 10
+        width: 7
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4efd259c9d7637850800000000000000
+      internalID: 6373552082742599652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Posit Vert_60"
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 10
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca8eae32af7125c70800000000000000
+      internalID: 8958248971905198252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Posit Vert_61"
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 10
+        width: 8
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dadfd42e2b93aea0800000000000000
+      internalID: -5862671667416802603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Campus Cear\xE1-Mirim - Logo_Posit Vert_62"
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 10
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bbd709f4dd411790800000000000000
+      internalID: -7561176722271904846
       vertices: []
       indices: 
       edges: []
@@ -1510,62 +1710,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      Windows_0: -2712965080552235136
-      Windows_1: -6202620245911416931
-      Windows_10: 6952533603709256229
-      Windows_11: 7623202017060836286
-      Windows_12: 2373180838748359268
-      Windows_13: 2557580305063876822
-      Windows_14: 4898801646686679027
-      Windows_15: 3924496672111592863
-      Windows_16: -4290862330766614052
-      Windows_17: 5656299820432990787
-      Windows_18: -2072416266485079537
-      Windows_19: -4008713283959896425
-      Windows_2: -6677279742194608663
-      Windows_20: 8732018472867795083
-      Windows_21: -7360247758398672853
-      Windows_22: -8476310321111939304
-      Windows_23: -8227149906472366451
-      Windows_24: -6879206147899864493
-      Windows_25: 1913425252321511326
-      Windows_26: 2819027839890318867
-      Windows_27: 3615106597314717051
-      Windows_28: 2143939760708950422
-      Windows_29: 8740618902415213645
-      Windows_3: -7500360871514107123
-      Windows_30: -2035172448893234033
-      Windows_31: 5051851805745486178
-      Windows_32: -6070259340843427594
-      Windows_33: 7436417782252467017
-      Windows_34: 5427223688068064897
-      Windows_35: -7605813849206081236
-      Windows_36: 1587400088514877187
-      Windows_37: -5413046417812492632
-      Windows_38: -534036128405053622
-      Windows_39: -3137716278263304016
-      Windows_4: -4853824523064533287
-      Windows_40: -5616113843002912617
-      Windows_41: -9082749012352545364
-      Windows_42: 7630508787456814367
-      Windows_43: -4721629468099289116
-      Windows_44: -7932194453839216733
-      Windows_45: -6123597838303684737
-      Windows_46: -1026924269489046172
-      Windows_47: 1019740943051424203
-      Windows_48: 6055727183000991421
-      Windows_49: 8106998415928726589
-      Windows_5: -753431888473554220
-      Windows_50: -2523580044350721496
-      Windows_51: -5304137365759917043
-      Windows_52: -5241223240880923958
-      Windows_53: 6838933084595983179
-      Windows_54: -4820487270976498853
-      Windows_6: 7250032703235838348
-      Windows_7: -311745519279340015
-      Windows_8: -4184484094318694091
-      Windows_9: 3016992840622293049
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
